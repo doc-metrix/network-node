@@ -211,7 +211,7 @@ $ open reports/coverage/lcov-report/index.html
 ---
 ## Copyright
 
-Copyright &copy; 2014. Athan Reines.
+Copyright &copy; 2014. NodePrime.
 
 
 [npm-image]: http://img.shields.io/npm/v/doc-metrix-network.svg
