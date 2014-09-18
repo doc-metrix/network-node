@@ -2,7 +2,7 @@ doc-metrix-network
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-Provides an API for doc-metrix [network](https://github.com/doc-metrix/network) performance metrics.
+> Provides an API for doc-metrix [network](https://github.com/doc-metrix/network) performance metrics.
 
 
 ## Installation
