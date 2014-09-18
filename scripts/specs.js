@@ -39,7 +39,9 @@
 
 	// SPECIFICATIONS //
 
-	var resources = {};
+	var resources = {
+			'network': 'https://raw.githubusercontent.com/doc-metrix/network/master/spec/index.json'
+		};
 
 
 	// VARIABLES //
