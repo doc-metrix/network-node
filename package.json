@@ -1,6 +1,6 @@
 {
   "name": "doc-metrix-network",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides an API for doc-metrix network performance metrics.",
   "author": {
     "name": "Athan Reines",
